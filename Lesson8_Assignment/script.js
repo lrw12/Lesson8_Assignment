@@ -18,4 +18,5 @@ function display(event) {
   $("h3").click.(display);
 }//end of display() 
 
-  
+  //
+  //
