@@ -31,7 +31,7 @@ Question #3:  (5 points)
 ++++++++++++
 How does every jQuery statement start?
 
-
+Every jQuery statement starts with a $. The $ symbol specifies that any code that follows should be interpreted using the jQuery library.
 
 
 
@@ -39,3 +39,36 @@ How does every jQuery statement start?
 Question #4: (10 points)
 ++++++++++++
 What is a Content Delivery Network (CDN)?  List and explain at least FOUR advantages in using a CDN.
+
+A Content Delivery Network is a large distributed system of proxy servers deployed
+in multiple data centers through the internet. 
+1. Speed
+2. Less load on server 
+3.
+4.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
